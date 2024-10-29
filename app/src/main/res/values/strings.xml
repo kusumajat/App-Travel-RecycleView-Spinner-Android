@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation_PGPB_VII</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="ticket_classes">
+        <item>Economy</item>
+        <item>Premium</item>
+        <item>Business</item>
+        <item>First Class</item>
+    </string-array>
+</resources>
